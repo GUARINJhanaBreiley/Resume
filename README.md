@@ -55,7 +55,8 @@
         <p>Phone: +63991775929</p>
         <p>Address: Malagasang 1-C, Jade Residence,<br>Blk 4 Lot 32 Imus Cavite, Philippines</p>
       </div>
-      <img src="1758013461667.IMG_20250916_170404_699.jpeg" alt="Jhana Guarin Photo">
+      <img src="
+      4ccbd065-d5c4-452e-b3fb-6d002ef3fa7b.jpeg" alt="Jhana Guarin Photo">
     </div>
 
     <!-- PERSONAL INFO -->
@@ -92,6 +93,8 @@
       <p>• Ibis Paint</p>
     </div>
   </div>
+</body>
+</html>
 </body>
 </html>
 </html>
