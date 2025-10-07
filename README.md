@@ -47,7 +47,6 @@
 </head>
 <body>
   <div class="resume">
-    <!-- HEADER -->
     <div class="header">
       <div>
         <h1>Jhana Guarin</h1>
@@ -55,11 +54,9 @@
         <p>Phone: +63991775929</p>
         <p>Address: Malagasang 1-C, Jade Residence,<br>Blk 4 Lot 32 Imus Cavite, Philippines</p>
       </div>
-      <img src="
-      4ccbd065-d5c4-452e-b3fb-6d002ef3fa7b.jpeg" alt="Jhana Guarin Photo">
+      <img src="4ccbd065-d5c4-452e-b3fb-6d002ef3fa7b.jpeg" alt="Jhana Guarin Photo">
     </div>
 
-    <!-- PERSONAL INFO -->
     <div class="section">
       <h2>PERSONAL INFORMATION</h2>
       <p>Age: 16</p>
@@ -69,7 +66,6 @@
       <p>Languages: English and Tagalog, Bilingual</p>
     </div>
 
-    <!-- EDUCATION -->
     <div class="section">
       <h2>EDUCATION BACKGROUND</h2>
       <p><b>Junior High School:</b></p>
@@ -94,7 +90,4 @@
     </div>
   </div>
 </body>
-</html>
-</body>
-</html>
 </html>
